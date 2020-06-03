@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec4c660-3900-41be-8ad5-d2b83aee8c7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1coLVgNFFZEiBOZR3Y8IKWuIIsP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RecFun" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="recfun.RecFun" />
+      <module name="progfun1-recfun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-recfun" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="recfun [file:/Users/yuchengfang/Documents/FP_in_Scala/FP_Principles_in_Scala/recfun/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-recfun-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429483876000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1861596165" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FP Principles in Scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FunctionalProgrammingInScala/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec4c660-3900-41be-8ad5-d2b83aee8c7a" name="Default Changelist" comment="" />
+      <created>1591190024557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591190024557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591190081660">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.973@0.23.1680.973" timestamp="1591190081660" />
+    <state x="478" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591190067872">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="478" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.973@0.23.1680.973" timestamp="1591190067872" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591191613991">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1591191613991" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591191613990">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1591191613990" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591191613990">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1591191613990" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591191613991">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1591191613991" />
+    <state x="118" y="209" key="new project wizard" timestamp="1591191431712">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="118" y="209" key="new project wizard/1680.172.1194.811/0.23.1680.973@0.23.1680.973" timestamp="1591191431712" />
+  </component>
+</project>

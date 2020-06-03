@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c553e9e7-78bc-4112-bd9d-c936630ce862" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1coOMTWbWGZoqdWPkeRgwEvyWVP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/week1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="squareRootWithNewtonMethod" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="week1.squareRootWithNewtonMethod" />
+      <module name="InclassPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="InclassPractice" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="inclasspractice [file:/Users/yuchengfang/Documents/FP_in_Scala/FP_Principles_in_Scala/InclassPractice/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="InclassPractice-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3182382863541" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3030217381" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1916534729" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FP Principles in Scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FunctionalProgrammingInScala/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c553e9e7-78bc-4112-bd9d-c936630ce862" name="Default Changelist" comment="" />
+      <created>1591191431757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591191431757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="148" width="811" height="669" key="#Project_Structure" timestamp="1591191557777">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="341" y="148" width="811" height="669" key="#Project_Structure/0.23.1680.973@0.23.1680.973" timestamp="1591191557777" />
+    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591191952730">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.972@0.23.1680.972" timestamp="1591191952730" />
+    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.973@0.23.1680.973" timestamp="1591191487341" />
+    <state x="473" y="404" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1591191584047">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="473" y="404" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.973@0.23.1680.973" timestamp="1591191584047" />
+    <state x="478" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591191889574">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="478" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.972@0.23.1680.972" timestamp="1591191889574" />
+    <state x="417" y="148" key="#squareRootWithNewtonMethod" timestamp="1591191819564">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="417" y="148" key="#squareRootWithNewtonMethod/0.23.1680.972@0.23.1680.972" timestamp="1591191819564" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591192092562">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591192092562" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591192092561">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591192092560">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1591192092560" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591192092561">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
+  </component>
+</project>

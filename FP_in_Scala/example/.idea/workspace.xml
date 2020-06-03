@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc7141d-a57c-4521-a208-6529adfd4f96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c3XX4oxGlXWo4KKMIs3Bbd5d3S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scala.tools.reflect.WrappedProperties.AccessControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="example [file:/Users/yuchengfang/Documents/FP_in_Scala/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9441947046000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="324345361" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc7141d-a57c-4521-a208-6529adfd4f96" name="Default Changelist" comment="" />
+      <created>1589758286828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589758286828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="148" key="#Unnamed" timestamp="1591160051460">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="519" y="148" key="#Unnamed/1680.172.1194.811/0.23.1680.965@0.23.1680.965" timestamp="1591159753903" />
+    <state x="519" y="148" key="#Unnamed/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591160051460" />
+    <state x="581" y="256" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591160381081">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="581" y="256" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1680.172.1194.811/0.23.1680.965@0.23.1680.965" timestamp="1591160381081" />
+    <state x="307" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591160512887">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="307" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.963@0.23.1680.963" timestamp="1591159499897" />
+    <state x="307" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.965@0.23.1680.965" timestamp="1591159737846" />
+    <state x="307" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160512887" />
+    <state x="580" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591160511608">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="580" y="274" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.963@0.23.1680.963" timestamp="1591159435254" />
+    <state x="580" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.965@0.23.1680.965" timestamp="1591159753274" />
+    <state x="580" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160511608" />
+    <state x="580" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591160050814" />
+    <state x="220" y="209" key="new project wizard" timestamp="1591160769374">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="220" y="209" key="new project wizard/1680.172.1194.811/0.23.1680.965@0.23.1680.965" timestamp="1591159667622" />
+    <state x="220" y="209" key="new project wizard/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160769374" />
+  </component>
+</project>

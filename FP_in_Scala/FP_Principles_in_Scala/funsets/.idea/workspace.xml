@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9336fb-1bf2-4174-830c-31c4b62607f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cf3pjAwf479EFJfhsOnv8DKHiJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funsets.Main" />
+      <module name="progfun1-funsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="funsets.Main" />
+      <module name="progfun1-funsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="squareRootWithNewtonMethod" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="funsets.Main" />
+      <module name="progfun1-funsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.squareRootWithNewtonMethod" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-funsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="funsets [file:/Users/yuchengfang/Documents/FP_in_Scala/FP_Principles%20_in_Scala/funsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-funsets-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429483876000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3399401617" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FP Principles in Scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../FunctionalProgrammingInScala/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9336fb-1bf2-4174-830c-31c4b62607f3" name="Default Changelist" comment="" />
+      <created>1590906004770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590906004770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591160715666">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="270" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1590911979451" />
+    <state x="316" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160715666" />
+    <state x="543" y="316" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591160594412">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="543" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.960@0.23.1680.960" timestamp="1590911956993" />
+    <state x="543" y="316" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160594412" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591189257137">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160301698" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591189257137" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591189257136">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160301697" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591189257136" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591189257136">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160301696" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591189257136" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591189257137">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/1680.172.1194.811/0.23.1680.966@0.23.1680.966" timestamp="1591160301697" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/1680.172.1194.811/0.23.1680.967@0.23.1680.967" timestamp="1591189257137" />
+  </component>
+</project>
