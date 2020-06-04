@@ -22,7 +22,7 @@ object squareRootWithNewtonMethod {
 
   def sqrt(x: Double) = sqrtIter(1.0, x)
 
-  sqrt(2)
+  println(sqrt(2))
   sqrt(4)
   sqrt(1000)
   sqrt(0.0001)

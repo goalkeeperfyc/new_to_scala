@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c553e9e7-78bc-4112-bd9d-c936630ce862" name="Default Changelist" comment="" />
+    <list default="true" id="c553e9e7-78bc-4112-bd9d-c936630ce862" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week1/greatestCommonDivisor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week1/special_symbol.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/InclassPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/InclassPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod.sc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +55,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1coOMTWbWGZoqdWPkeRgwEvyWVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +72,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -42,14 +83,38 @@
       <recent name="$PROJECT_DIR$/src/main/scala/week1" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="squareRootWithNewtonMethod" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="week1.squareRootWithNewtonMethod" />
+  <component name="RunManager" selected="Application.specialSymbol">
+    <configuration name="greatestCommonDivisor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week1.greatestCommonDivisor" />
+      <module name="InclassPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="specialSymbol" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="week1.special_symbol" />
       <module name="InclassPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.specialSymbol" />
+      <item itemvalue="Application.greatestCommonDivisor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.greatestCommonDivisor" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -64,7 +129,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="inclasspractice [file:/Users/yuchengfang/Documents/FP_in_Scala/FP_Principles_in_Scala/InclassPractice/]" />
+                <option name="name" value="inclasspractice [file:/Users/yuchengfang/Downloads/scala_code/scala_coursera_EPFL/FP_in_Scala/FP_Principles_in_Scala/InclassPractice/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -88,7 +153,6 @@
         <entry key="$PROJECT_DIR$/../../FP Principles in Scala/recfun" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/funsets" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../FP_Principles _in_Scala/objsets" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../FunctionalProgrammingInScala/example" value="PREVIEW" />
       </map>
@@ -112,9 +176,10 @@
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="341" y="148" width="811" height="669" key="#Project_Structure/0.23.1680.973@0.23.1680.973" timestamp="1591191557777" />
-    <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591191952730">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state x="144" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591238902164">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
+    <state x="144" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.963@0.23.1680.963" timestamp="1591238902164" />
     <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.972@0.23.1680.972" timestamp="1591191952730" />
     <state x="205" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.172.1194.811/0.23.1680.973@0.23.1680.973" timestamp="1591191487341" />
     <state x="473" y="404" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1591191584047">
@@ -129,21 +194,29 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="417" y="148" key="#squareRootWithNewtonMethod/0.23.1680.972@0.23.1680.972" timestamp="1591191819564" />
-    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591192092562">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591240340154">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591240340154" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591239973913" />
     <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591192092562" />
-    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591192092561">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591240340153">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1591240340153" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591239973912" />
     <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
-    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591192092560">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591240340152">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1591240340152" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591239973912" />
     <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1591192092560" />
-    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591192092561">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591240340153">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1591240340153" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591239973913" />
     <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
   </component>
 </project>
