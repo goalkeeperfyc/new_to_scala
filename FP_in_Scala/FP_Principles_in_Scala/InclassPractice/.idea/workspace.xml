@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c553e9e7-78bc-4112-bd9d-c936630ce862" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week1/greatestCommonDivisor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week1/special_symbol.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/InclassPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/InclassPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$16403f415f026d491f44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$58deebbe20052fc246f8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$860c579faa28d077d602.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c3c175f9f6b634d0773d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod.sc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week1/squareRootWithNewtonMethod.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/week1/greatestCommonDivisor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/week1/greatestCommonDivisor.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala/week1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.specialSymbol">
+  <component name="RunManager" selected="Application.greatestCommonDivisor">
     <configuration name="greatestCommonDivisor" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="week1.greatestCommonDivisor" />
       <module name="InclassPractice" />
@@ -194,27 +164,31 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="417" y="148" key="#squareRootWithNewtonMethod/0.23.1680.972@0.23.1680.972" timestamp="1591191819564" />
-    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591240340154">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1591241357563">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591241357563" />
     <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591240340154" />
     <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591239973913" />
     <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591192092562" />
-    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591240340153">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1591241357562">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591241357562" />
     <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1591240340153" />
     <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591239973912" />
     <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
-    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591240340152">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1591241357561">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591241357561" />
     <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1591240340152" />
     <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591239973912" />
     <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1591192092560" />
-    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591240340153">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1591241357562">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591241357562" />
     <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1591240340153" />
     <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591239973913" />
     <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1591192092561" />
